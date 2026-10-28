@@ -6,9 +6,10 @@ Hier findest du meine Desktop- und Mobile-Projekte im Überblick.
 
 <br>
 
-| 🖥️ Desktop-Variante | 📱 Mobile-Variante |
-| :--- | :--- |
-| **FellClicker Pro**<br>Der moderne, KI-gestützte Windows-Autoklicker mit Dark-Design und Profilverwaltung. | **FellClicker Pro Touch**<br>Der präzise Auto-Clicker für Android, optimiert für Touch-Bedienung und Overlays. |
-| [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro) | [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro-Touch) |
+| 🖥️ FellClicker Pro | 📱 FellClicker Pro Touch | 📺 FellSplit Pro |
+| :--- | :--- | :--- |
+| **Windows-Autoklicker**<br>Der moderne, KI-gestützte Windows-Autoklicker mit Dark-Design und Profilverwaltung. | **Android-Autoklicker**<br>Der präzise Auto-Clicker für Android, optimiert für Touch-Bedienung und Overlays. |
+| **Fensterteiler für Streamer**<br>Ermöglicht das Aufteilen von Ultrawide-Monitoren (32:9 / 21:9) in saubere 16:9 Fenster. |
+| [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro) | [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro-Touch) | [Zum Repository](https://github.com/FellEntertainment/FellSplit-Pro) |
 
 </div>
