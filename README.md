@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FellEntertainment/FellEntertainment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Willkommen bei Fell Entertainment ⚡
 
-Here are some ideas to get you started:
+Hier findest du meine Desktop- und Mobile-Projekte im Überblick.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+| 🖥️ Desktop-Variante | 📱 Mobile-Variante |
+| :--- | :--- |
+| **FellClicker Pro**<br>Der moderne, KI-gestützte Windows-Autoklicker mit Dark-Design und Profilverwaltung. | **FellClicker Pro Touch**<br>Der präzise Auto-Clicker für Android, optimiert für Touch-Bedienung und Overlays. |
+| [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro) | [Zum Repository](https://github.com/FellEntertainment/FellClicker-Pro-Touch) |
+
+</div>
